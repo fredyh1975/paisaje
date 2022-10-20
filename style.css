@@ -1,0 +1,101 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.container{
+    background-color:salmon ;
+    width: 100vh;
+    height: 100vh;
+    display:flex;
+    border-radius: 2%;
+}
+.sol{
+    
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    background: yellow;
+    margin-left: 60%;
+    margin-top: 5%;
+    
+  
+}
+.nevado1{
+    width: 0;
+    height: 0;
+    border-left: 100px solid transparent;
+    border-right: 100px solid transparent;
+    border-top: 100px solid transparent;
+    border-bottom: 300px solid green;
+    position: absolute;
+    margin-top: 15%;
+    margin-left: 0%;
+   
+   
+  }
+  .nevado2{
+    width: 0;
+    height: 0;
+    border-left: 60px solid transparent;
+    border-right: 60px solid transparent;
+    border-top: 100px solid transparent;
+    border-bottom: 150px solid white;
+    position: absolute;
+    margin-top: 15%;
+    margin-left: 3%;
+   
+   
+  }
+  
+.nevado3{
+    width: 0;
+    height: 0;
+    border-left: 100px solid transparent;
+    border-right: 100px solid transparent;
+    border-top: 100px solid transparent;
+    border-bottom: 200px solid green;
+    position: absolute;
+    margin-top: 20%;
+    margin-left: 10%;
+   
+   
+  }
+  .nevado4{
+    width: 0;
+    height: 0;
+    border-left: 60px solid transparent;
+    border-right: 60px solid transparent;
+    border-top: 100px solid transparent;
+    border-bottom: 100px solid white;
+    position: absolute;
+    margin-top: 19%;
+    margin-left: 13%;
+   
+}
+
+.montana1{
+    width: 48%;
+    height: 8%;
+    margin-top: 40%;
+    margin-left: 0%;
+    border-radius: 25%; 
+    background-color: rgb(34, 180, 34);
+    position: absolute;
+
+
+}
+.montana2{
+    width: 48%;
+    height: 65px;
+    margin-top: 43%;
+    position: absolute;
+     margin-left: 0%;
+     border-radius: 0 5% /0 90%;
+   
+    background-color:rgb(49, 102, 49);
+    
+
+}
+   
